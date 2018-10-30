@@ -1,0 +1,26 @@
+body {
+    background-color: rgba(48,98,236,0.85);
+}
+
+.press {
+    height: 125px;
+    width: 125px; 
+    border-radius: 100%; 
+    margin-top: 30%; 
+    float: center;
+    background-color: rgba(48,98,236,0.85);
+    border-color: rgba(48,98,236,0.85);
+}
+
+img {
+    float: right;
+}
+
+.pauser {
+    background-color: Tomato;
+    border-radius: 8%;
+    height: 40px;
+    width: 65px;
+    border-color: coral;
+    margin-top: 5%;
+}
